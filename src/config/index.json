@@ -61,6 +61,12 @@
         "description": "adro.ventas@hotmail.com",
         "icon": "/assets/images/email.png",
         "url":""
+      },
+      {
+        "name": "Facebook",
+        "description": "delicias de Stellita",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/delicias-de-Stellita/61566611214176/?sk=about&_rdc=1&_rdr"
       }
     ]
   },
